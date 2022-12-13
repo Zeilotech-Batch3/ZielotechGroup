@@ -1,3 +1,6 @@
 H1/
 a.java
 b.java
+*.cpp
+*.cis
+*.doc
